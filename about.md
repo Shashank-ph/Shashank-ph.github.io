@@ -1,13 +1,14 @@
-
+---
 layout: about
 title: About
 ---
 
 ## About Me
 
-**Shashank Phatak | Senior Cyber Security Consultant | Penetration Testing & Vulnerability Management**
-Qualys Certified Specialist | Crest Practitioner Security Analyst | Network Security Expert - Level 2 Certified | Cyber Hygiene Practitioner |
-IT Governance, Risk & Security Compliance | Corporate Cyber Security Management | CompTIA Security+ (SYO-501) Certified | ISO 27001
+# Shashank Phatak : Senior Cyber Security Consultant 
+# Penetration Testing & Vulnerability Management
+Qualys Certified Specialist   Crest Practitioner Security Analyst   Network Security Expert - Level 2 Certified   Cyber Hygiene Practitioner 
+IT Governance, Risk & Security Compliance   Corporate Cyber Security Management   CompTIA Security+ (SYO-501) Certified   ISO 27001
 
 
 **Certifications and Expertise:**
