@@ -5,7 +5,7 @@ title: About
 
 ## About Me
 
-# Shashank Phatak : Senior Cyber Security Consultant |Penetration Testing & Vulnerability Management
+# Shashank Phatak : Senior Cyber Security Consultant || Penetration Testing & Vulnerability Management
 
 **Certifications and Expertise:**
 I am a highly accomplished Senior Cyber Security Consultant with a rich tapestry of qualifications, including a **Qualys Certified Specialist, Crest Practitioner Security Analyst (CPSA), and a Level 2 Certified Network Security Expert**. Additionally, I hold certifications in **CompTIA Security+ and ISO27001** standard, showcasing my dedication to maintaining the highest levels of cybersecurity proficiency. My expertise also extends to IT Governance, Risk, and Security Compliance, underlining my comprehensive approach to corporate cyber security management and its alignment with industry best practices.
