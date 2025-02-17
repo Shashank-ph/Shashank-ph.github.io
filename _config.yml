@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Curriculum Vitae for Shashank Phatak
+title: Digital Profile for Shashank Phatak
 email: shashankphatak19@gmail.com
 author: Shashank Phatak
 
