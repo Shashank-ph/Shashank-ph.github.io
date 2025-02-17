@@ -1,5 +1,5 @@
 home:
-  heading: "Welcome to the E-Portfolio site of Shashank Phatak"
+  heading<h1>: "Welcome to the E-Portfolio site of Shashank Phatak"
   subheading: "With a deep passion for ethical hacking and security consulting, I have spent years safeguarding businesses through strategic 
   penetration testing and vulnerability assessments. My expertise spans security frameworks, compliance, and hands-on exploitation techniques—delivering 
   risk-driven solutions that align with business goals"
