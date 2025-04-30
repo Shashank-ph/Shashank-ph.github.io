@@ -1,21 +1,17 @@
-{%- if include.keys -%}
-  {%- assign keys = include.keys -%}
-{%- endif -%}
-
-{%- if include.field -%}
-  {%- assign field = include.field -%}
-{%- endif -%}
+{% assign keys = include.keys | sort_natural %}
+{%- assign field = include.field -%}
 
 <div class="page-segments">
-  <ul class="page-segments-list">
-    {% for key in keys %}
+  {% for key in keys %}
     <h2 id="{{ key }}" class="segment-name">{{ key }}</h2>
+    <ul class="page-segments-list">
       {% assign items = site.posts | where: field, key %}
-      {% for item in items %}
-        {% if item != nil %}
-        <li> {% include views/post-item.html %} </li>
+      {% assign sorted_items = items | sort: "title" %} {# optional sorting by title #}
+      {% for item in sorted_items %}
+        {% if item %}
+          <li>{% include views/post-item.html item=item %}</li>
         {% endif %}
       {% endfor %}
-    {% endfor %}
-  </ul>
+    </ul>
+  {% endfor %}
 </div>
